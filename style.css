@@ -1,0 +1,58 @@
+html {
+	scroll-behavior: smooth;
+}
+
+.bg-main {
+	background-image: url(images/hero-image.jpg);
+	background-size: cover;
+	height: 750px;
+}
+
+.wrapper {
+	height: 750px;
+	width: 100%;
+	background: black;
+	opacity: 75%;
+}
+
+.text-brown {
+	color: #ecb871;
+}
+
+.nav-link:hover {
+	color: #ffffff;
+}
+
+.nav-link:hover {
+	color: #ecb871;
+}
+
+.btn {
+	background: #ecb871;
+}
+
+.btn:hover {
+	background: #e6a244;
+}
+
+.bg-brown {
+	background: #ecb871;
+}
+
+.bg-blue {
+	background: #48639c;
+}
+
+.bg-dark-blue {
+	background: #212f4f;
+}
+
+.header-width {
+	width: 1280px;
+}
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+	.header-width {
+		width: 960px;
+	}
+}
