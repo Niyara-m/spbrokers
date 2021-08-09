@@ -6,8 +6,8 @@ document.getElementById("year").innerHTML = year;
 
 window.onscroll = function () { 
 	"use strict";
-	if (document.body.scrollTop >= 200 || document.documentElement.scrollTop >= 200) {
-		nav.classList.add("bg-black", "opacity-75", "transition", "duration-1000", "ease-in-out");
+	if (document.body.scrollTop >= 140 || document.documentElement.scrollTop >= 140) {
+		nav.classList.add("bg-black", "opacity-75", "transition", "duration-700", "ease-in-out");
 		nav.classList.remove("bg-transparent");
 	} 
 	else {
@@ -15,6 +15,21 @@ window.onscroll = function () {
 		nav.classList.remove("bg-black", "opacity-75");
 	}
 };
+
+
+function openMobileMenu() {
+	document.getElementById('mobileMenu').style.display = 'block';
+	document.getElementById('openIcon').style.display = 'none';
+	document.getElementById('closeIcon').style.display = 'block';
+	navMobile.classList.add("bg-black");
+}
+
+function closeMobileMenu() {
+	document.getElementById('mobileMenu').style.display = 'none';
+	document.getElementById('openIcon').style.display = 'block';
+	document.getElementById('closeIcon').style.display = 'none';
+	navMobile.classList.remove("bg-black");
+}
 
 //const axios = require('axios');
 
