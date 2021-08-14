@@ -22,7 +22,7 @@
     $number = trim($number);
     $comment = trim($comment);
 
-    if (mail("nikam2341@gmail.com", "Заявка с сайта", "ФИО: " . $fio."\r\n" . "Номер: ".$number."\r\n". "Вопрос или пожелание: ".$comment."\r\n"."E-mail: ".$email ,"From: info@niyara.uz \r\n"))
+    if (mail("nikam2341@gmail.com", "Заявка с сайта", "ФИО: " . $fio."\r\n" . "Номер: ".$number."\r\n". "Вопрос или пожелание: ".$comment."\r\n"."E-mail: ".$email ,"From: info@spbrokers.uz \r\n"))
     {   echo "сообщение успешно отправлено";
     } else {
         echo "при отправке сообщения возникли ошибки";
