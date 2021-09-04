@@ -14,6 +14,9 @@ if (empty($_SERVER['HTTPS']) || $_SERVER['HTTPS'] === "off") {
 	<meta charset="utf-8">
 	<meta name="language" content="Russian">
 	<meta name="keywords" content="таможенное оформление грузов, сохранность, хранение груза, анализ пакета документов">
+	<meta name="robots" content="index, follow">
+	<meta name="revisit-after" content="1 day">
+	<meta name="description" content="Успешное таможенное оформление и сохранность Вашего груза.Мы можем оформить груз на любом таможенном посту по всей территории Республики Узбекистан в зависимости от условий и задач, стоящих перед нами в каждом отдельном проекте. Обращаясь за помощью в SPEED BROKERS, Вы получайте надежного партнера, которому можно доверить все таможенные операции со своим грузом.">
 	<title>Speed Brokers</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 	<link href="style.css" rel="stylesheet" type="text/css">
