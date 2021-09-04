@@ -16,7 +16,7 @@ if (empty($_SERVER['HTTPS']) || $_SERVER['HTTPS'] === "off") {
 	<meta name="keywords" content="таможенное оформление грузов, сохранность, хранение груза, анализ пакета документов, Узбекистан">
 	<meta name="robots" content="index, follow">
 	<meta name="revisit-after" content="1 day">
-	<meta name="description" content="Успешное таможенное оформление и сохранность Вашего груза.Мы можем оформить груз на любом таможенном посту по всей территории Республики Узбекистан в зависимости от условий и задач, стоящих перед нами в каждом отдельном проекте. Обращаясь за помощью в SPEED BROKERS, Вы получайте надежного партнера, которому можно доверить все таможенные операции со своим грузом.">
+	<meta name="description" content="SPEED BROKERS - Таможенное оформление и сохранность Вашего груза. Оформление грузов на любом таможенном посту по всей территории Республики Узбекистан.">
 	<title>Speed Brokers</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 	<link href="style.css" rel="stylesheet" type="text/css">
@@ -107,7 +107,7 @@ if (empty($_SERVER['HTTPS']) || $_SERVER['HTTPS'] === "off") {
 					</header>
 					<main class="max-w-3xl mx-auto flex items-center justify-center h-full px-5">
 						<div class="flex flex-col text-white text-center items-center">
-							<h1 class="text-6xl">SPEED BROKERS </h1> 
+							<h1 class="text-6xl">SPEED BROKERS</h1> 
 							<h2 class="text-sm md:text-base">Успешное таможенное оформление и сохранность Вашего груза.</h2>
 							<span class="text-lg md:text-xl my-12 px-2 md:px-0">В любой момент Вы можете получить информацию о Вашем грузе. Учитывая Ваши пожелания, предложения, наши специалисты смогут оказать грамотную консультацию.</span>
 							<div>
@@ -169,7 +169,7 @@ if (empty($_SERVER['HTTPS']) || $_SERVER['HTTPS'] === "off") {
 						</div>
 					</div>
 					<div class="w-full lg:w-1/2">
-						<img alt="таможенное оформление" class="rounded mb-10 lg:mb-0" src="images/customs-clearance.jpg">
+						<img alt="loading the car with cargo" class="rounded mb-10 lg:mb-0" src="images/customs-clearance.jpg">
 					</div>
 				</div>
 			</div>
@@ -180,7 +180,7 @@ if (empty($_SERVER['HTTPS']) || $_SERVER['HTTPS'] === "off") {
 					<h3 class="text-2xl font-medium text-center mb-5 xl:mb-10 text-gray-800">УСЛУГИ В РАМКАХ ТАМОЖЕННОГО ОФОРМЛЕНИЯ</h3>
 					<div class="text-sm text-gray-600 grid gap-6 grid-cols-1 md:grid-cols-3 pt-6">
 						<div class="bg-white shadow rounded">
-							<img alt="Расчет сделки" class="rounded-t w-full object-cover h-64" src="images/1service.jpg">
+							<img alt="packed boxes" class="rounded-t w-full object-cover h-64" src="images/1service.jpg">
 							<div class="p-6">
 								<div class="mb-8 text-sm">
 									<div class="text-gray-800 font-medium my-2 text-lg leading-tight">Расчет сделки </div>
@@ -210,10 +210,10 @@ if (empty($_SERVER['HTTPS']) || $_SERVER['HTTPS'] === "off") {
 								</div>
 								
 							</div>
-							<img alt="Подбор таможенной процедуры" class="rounded-b w-full object-cover h-64" src="images/2service.jpg">
+							<img alt="two men with boxes" class="rounded-b w-full object-cover h-64" src="images/2service.jpg">
 						</div>
 						<div  class="bg-white shadow rounded">
-							<img alt="Хранение грузов" class="rounded-t w-full object-cover h-64" src="images/3service.jpg">
+							<img alt="trucks in a row" class="rounded-t w-full object-cover h-64" src="images/3service.jpg">
 							<div class="p-6">
 								<div class="mb-8 text-sm">
 									<div class="text-gray-800 font-medium my-2 text-lg leading-tight">Получение классификационного решения</div>
