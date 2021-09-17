@@ -17,6 +17,9 @@ if (empty($_SERVER['HTTPS']) || $_SERVER['HTTPS'] === "off") {
 	<meta name="robots" content="index, follow">
 	<meta name="revisit-after" content="1 day">
 	<meta name="description" content="SPEED BROKERS - Таможенное оформление и сохранность Вашего груза. Оформление грузов на любом таможенном посту по всей территории Республики Узбекистан.">
+
+	<meta name="facebook-domain-verification" content="nehfevs4tv7nocv1q3d5ej2qll456b" />
+	
 	<title>Speed Brokers</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 	<link href="style.css" rel="stylesheet" type="text/css">
